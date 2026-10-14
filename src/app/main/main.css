@@ -1,0 +1,43 @@
+.menu{
+width: 80%;
+margin: auto;
+font-weight: bold;
+}
+header{
+  border: 1px solid black;
+  background-color: rgb(9, 245, 28);
+  height: 15vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.div{
+  height: 70vh;
+  display: flex;
+  border: 1px solid black;
+}
+main{
+background-color: blue;
+height: 100%;
+width: 50%;
+display: flex;
+  align-items: center;
+  justify-content: center;
+}
+p{
+  background-color: red;
+  height: 100%;
+  width: 50%;
+  border: 1px solid black;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+footer{
+  background-color: yellow;
+  border: 1px solid black;
+  height: 15vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

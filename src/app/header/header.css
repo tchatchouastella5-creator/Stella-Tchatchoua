@@ -1,0 +1,35 @@
+header{
+ background-color: rgb(45, 248, 4);
+ height: 15vh;
+ border: 1px solid black;
+ border-left: none;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+}
+main{
+  background-color: red;
+  height: 70vh;
+  border: 1px solid black;
+  border-left: none;
+  display: flex;
+ justify-content: center;
+ align-items: center;
+}
+footer{
+  background-color: yellow;
+  height: 15vh;
+  border: 1px solid black;
+  border-left: none;
+  display: flex;
+ justify-content: center;
+ align-items: center;
+}
+.content{
+width: 80%;
+margin: auto;
+text-align: center;
+font-weight: bold;
+height: 100vh;
+}
+

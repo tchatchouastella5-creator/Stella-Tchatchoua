@@ -1,0 +1,43 @@
+.class{
+  height: 100vh;
+  display: flex;
+  width: 80%;
+  margin: auto;
+  font-weight: bold;
+}
+.left{
+border: 1px solid black;
+width: 25%;
+background-color: blue;
+display: flex;
+align-items: center;
+justify-content: center;
+}
+.right{
+border: 1px solid black;
+width: 75%;
+}
+header{
+  background-color: rgb(3, 248, 3);
+  border: 1px solid rgb(46, 1, 46);
+  height: 25%;
+  display: flex;
+align-items: center;
+justify-content: center;
+}
+main{
+  background-color: red;
+  border: 1px solid rgb(85, 1, 1);
+  height: 50%;
+  display: flex;
+align-items: center;
+justify-content: center;
+}
+footer{
+  background-color: yellow;
+  border: 1px solid rgb(104, 1, 53);
+  height: 25%;
+  display: flex;
+align-items: center;
+justify-content: center;
+}
